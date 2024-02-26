@@ -24,6 +24,7 @@ causando um maior atraso na execução.
 O arquivo de texto que iremos utilizar foi criado a partir de um código que gera
 números aleatórios no intervalo de [-100, 100], cada linha tem no máximo 3
 caracteres podendo haver repetições.
+
 Conclusão:
 Era de nosso conhecimento que esse algoritmo não era amplamente recomendado
 em tarefas de ordenação muito grandes. Em pequenas listas o desempenho foi
