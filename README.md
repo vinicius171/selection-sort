@@ -6,9 +6,6 @@ O selection sort consiste em selecionar o menor item e colocar na primeira posi�
 selecionar o segundo menor item e colocar na segunda posição, segue estes
 passos até que reste um único elemento.
 ![selection-sort-animation-1](https://github.com/vinicius171/selection-sort/assets/80222322/dbc1a549-0468-4f16-8944-adfbb4d8cb5f)
-
-
-
 Para todos os casos (melhor, médio e pior caso) possui complexidade C(n) = O(n²) e não é um algoritmo estável.
 Para calcularmos o número de operações feita pelo algoritmo podemos usar uma
 fórmula bem simples, n * (n — 1) / 2, onde n é o tamanho da lista.
